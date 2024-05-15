@@ -1,2 +1,2 @@
 # Studies
- Programming website
+ Aula #06 curso em video
