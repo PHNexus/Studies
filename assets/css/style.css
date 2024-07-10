@@ -1,23 +1,14 @@
-div {text-align: center;}
+.Hello{
 
+background-color: aqua;
 
-.hv1 {
-
-    background-color: rgb(226, 163, 26) ;
 border: 1px solid black;
-border-radius: 25px;
-margin-right: 25%;
-margin-left: 25%;
+border-radius: 15px;
 
-}
+text-align: center;
 
-.pv1 {
-
-background-color: rgb(200, 255, 0);
-border: 1px solid black;
-border-radius: 20px;
 margin-left: 15%;
 margin-right: 15%;
-}
 
-/* comentario em css */
+
+}
